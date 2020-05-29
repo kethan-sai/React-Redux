@@ -1,6 +1,5 @@
 {
-  "streams": [
-    {
+  "streams": [{
       "title": "streams",
       "description": "get it",
       "id": 1
@@ -9,6 +8,13 @@
       "title": "straemr",
       "description": "fix it",
       "id": 2
+    },
+    {
+      "title": "created stream",
+      "description": "descp here",
+      "userId": "110460045620674526195",
+      "id": 3
     }
+
   ]
 }
